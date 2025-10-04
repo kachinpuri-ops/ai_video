@@ -1,0 +1,8 @@
+Ultra_AI_Video_Generator_Colab.ipynb
+│
+├── Step 1: GitHub repo clone
+├── Step 2: Install dependencies
+├── Step 3: Wav2Lip setup + model download
+├── Step 4: Run Streamlit in Colab (ngrok)
+├── Step 5: Upload image + input text
+├── Step 6: Generate video (multi-voice, lipsync, 4K optional)
